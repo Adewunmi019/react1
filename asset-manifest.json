@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/firstTaskOnReact/static/css/main.316ec060.css",
+    "main.js": "/firstTaskOnReact/static/js/main.03c7e150.js",
+    "index.html": "/firstTaskOnReact/index.html",
+    "main.316ec060.css.map": "/firstTaskOnReact/static/css/main.316ec060.css.map",
+    "main.03c7e150.js.map": "/firstTaskOnReact/static/js/main.03c7e150.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.316ec060.css",
+    "static/js/main.03c7e150.js"
+  ]
+}
